@@ -23,7 +23,7 @@ main {
     height: 33.133rem;
     width: 21.333rem;
     border-radius: 20px;
-    box-shadow: 0 10px 10px 0 var(--clr-gray);
+    box-shadow: 0 5px 10px 0 var(--clr-grayblue);
     margin: auto;
     display: grid;
     grid-template-areas: 
